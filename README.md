@@ -1,20 +1,35 @@
-<h1>Hi, I'm Bailey!</h1>
+# Hi, I'm Bailey!
 
-<h2>Data Science Projects:</h2>
+---
 
-- <b>NHANES Health Data Analysis</b>
-  - [Jupyter Notebook + Powerpoint Presentation (CORRECT LINK TO BE INSERTED SOON)](https://github.com/BaileyLMulcahy)
-- <b>Project 2 (Will be here soon)</b>
-  - [Project 2 files](https://github.com/BaileyLMulcahy)
+## Projects
 
-<h2>Education:</h2>
+I’m currently building a portfolio of data science projects — more will be added here as they are completed!
 
-<b>Bachelor of Data Science</b> (Deakin University)
-  - Expected Completion: June 2026
-  - Current Average Grade: High Distinction – 83.63 WAM
+- **[StackExchange Text Mining and Visualisation Project](https://github.com/BaileyLMulcahy/stackexchange-text-analysis)**
+- More to come soon!
 
-<h2>Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Education
 
-[linkedin]: https://www.linkedin.com/in/bailey-mulcahy/
+**Bachelor of Data Science (Deakin University)**  
+Expected completion: **June 2026**  
+Current WAM: **83.63 (High Distinction)**  
+
+---
+
+## Skills & Interests
+
+- Data Science & Machine Learning  
+- Data Cleansing & Visualisation  
+- Python (Pandas, Matplotlib, Seaborn, Scikit-learn)  
+- Natural Language Processing (NLP)  
+- SQL
+- Quarto & Jupyter Notebooks
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/bailey-mulcahy/)
