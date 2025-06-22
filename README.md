@@ -7,6 +7,12 @@
 - <b>Project 2 (Will be here soon)</b>
   - [Project 2 files](https://github.com/BaileyLMulcahy)
 
+<h2>Education:</h2>
+
+<b>Bachelor of Data Science</b> (Deakin University)
+  - Expected Completion: June 2026
+  - Current Average Grade: High Distinction – 83.63 WAM
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
