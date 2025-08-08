@@ -15,7 +15,7 @@ I’m currently building a portfolio of data science projects — more will be a
 
 **Bachelor of Data Science (Deakin University)**  
 Expected completion: **June 2026**  
-Current WAM: **83.63 (High Distinction)**  
+Current WAM: **84.67 (High Distinction)**  
 
 ---
 
